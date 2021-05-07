@@ -19,7 +19,7 @@ public class ReverseArray {
 		for (int i = 0; i < n; i++) {
 			arr[i] = sc.nextInt();
 		}
-
+		
 		int start = 0;
 		int end = arr.length - 1;
 		int temp;
